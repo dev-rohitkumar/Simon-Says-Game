@@ -41,6 +41,10 @@ This is a fun and interactive web-based game inspired by the classic memory chal
 ## License
 This project is licensed under the MIT License.
 
+## Connect with Me
+- X (Twitter): [@dev_rohitkumar](https://x.com/dev_rohitkumar)
+- LinkedIn: [dev-rohitkumar](https://www.linkedin.com/in/dev-rohitkumar/)
+
 ---
 
 Enjoy playing and challenge your friends! 🚦🧠
